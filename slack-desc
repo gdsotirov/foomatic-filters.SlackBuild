@@ -1,0 +1,11 @@
+foomatic-filters: foomatic-filters - A printer filter for UNIX
+foomatic-filters:
+foomatic-filters: This package includes the universal print filter
+foomatic-filters: "foomatic-rip", used by spoolers to convert PostScript job
+foomatic-filters: data into the printer's native format as described by a
+foomatic-filters: printer/driver-specific PPD file. The filter can be used
+foomatic-filters: by CUPS.
+foomatic-filters:
+foomatic-filters:
+foomatic-filters: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+foomatic-filters:
